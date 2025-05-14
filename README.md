@@ -1,4 +1,4 @@
-# Projeto de Classifica o de Imagem por Raça
+# Projeto de Classificação o de Imagem por Raça
 
 Este repositório contém a **segunda atividade prática** desenvolvida durante o curso de Inteligência Artificial da Pretalab.  
 O objetivo do projeto foi **apresentar conceitos básicos de aprendizado de máquina**, utilizando dados reais e modelos pré-treinados para **classificar imagens de mulheres pretas e brancas**.
